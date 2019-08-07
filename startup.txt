@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Naman Technovations</title>
+</head>
+<h1>Naman Technovations</h1>
+<b>Contact:</b>8744039883 <br><b>email:</b>namankrocks@gmail.com <br>
+<b>address:</b> G-27, Brahma Appts., Sec-7, Plot-7, Dwarka, New Delhi<br>
+<a href="file:///C:/Users/Prashant/Desktop/img.html">business card</a>
+&copy; Naman Technovations
+</body>
+</html>
